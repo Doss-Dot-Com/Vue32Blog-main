@@ -1,0 +1,46 @@
+{
+    "blogs": [
+        {
+            "id": "blog1",
+            "title": "What is a Family Home Evening: Analysis on FHE as if we were Extraterrestrials",
+            "tags": ["Family", "Article", "God", "Talks"],
+            "cover": "blog1.png",
+            "des": "What is Compostion API, Pinia, and Vite",
+            "useNumbers": true,
+            "live": true,
+            "date": [
+                3,
+                20,
+                2024
+            ]            
+        },
+        {
+            "id": "blog2",
+            "title": "Why is Family Central to God's Plan?",
+            "tags": ["Family", "Article", "God", "Talks", "Research", "Plan of Happiness", "Central"],
+            "cover": "blog2.png",
+            "des": "Figuring out the 'Why' of Families. Should you have a Family? Read Here",
+            "useNumbers": false,
+            "live": true,
+            "date": [
+                3,
+                21,
+                2024
+            ]            
+        },
+        {
+            "id": "blog3",
+            "title": "What Benefits does a Family Unit bring?",
+            "tags": ["Family", "FHE", "Blog", "Fun", "Alien"],
+            "cover": "blog3.png",
+            "des": "What Benefits does a Family Unit bring?",
+            "useNumbers": false,
+            "live": false,
+            "date": [
+                4,
+                1,
+                2024
+            ]            
+        }
+    ]
+}

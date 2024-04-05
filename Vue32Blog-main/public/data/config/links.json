@@ -1,0 +1,30 @@
+{
+    "links": [
+        {
+            "title": "The Church of Jesus Christ of Latter-day Saints",
+            "desc": "Official website for the Latter-day Saints church",
+            "link": "https://www.churchofjesuschrist.org/?lang=eng"
+        },        
+        {
+            "title": "The Chosen",
+            "desc": "The Chosen is the first-ever multi-season TV show about the life of Jesus.",
+            "link": "https://thechosen.tv/en-us"
+        },
+        {
+            "title": "General Conference Page",
+            "desc": "General Conference Page",
+            "link": "https://www.churchofjesuschrist.org/study/general-conference?lang=eng"
+        },
+        {
+            "title": "BYU Religous Education",
+            "desc": "BYU Religion Department with good resources.",
+            "link": "https://religion.byu.edu/"
+        },                
+        {
+            "title": "BYU",
+            "desc": "Official BYU Website",
+            "link": "https://www.byu.edu/"
+        }
+
+    ]
+}
